@@ -1,2 +1,3 @@
 # hello_world
-test
+this is the first repository of ming
+tets2
